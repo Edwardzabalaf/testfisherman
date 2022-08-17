@@ -117,6 +117,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     <textarea id="msg" name="user_message"></textarea>
   </li>
  </ul>
+  
+  <p>En la actualidad, la última versión de <strong>HTML</strong> es HTML5.</p>
+ 
+ <p>En la actualidad, la última versión de <strong>HTML</strong> es HTML5.</p>
 </form>
   </body>
 </html>
